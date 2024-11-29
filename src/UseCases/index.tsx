@@ -30,7 +30,7 @@ const UseCases = () => {
     const [productId, setProductId] = useState(0);
 
     return (
-        <div className="w-full flex flex-1 flex-col pt-10 pb-5 px-5 lg:px-20 mb-5 lg:mb-10">
+        <div className="w-full flex flex-1 flex-col pt-10 pb-5 px-1 lg:px-20 mb-5 lg:mb-10">
             <div className="font-bold text-3xl lg:text-6xl py-2">
                 <span className="text-red-800 ">Support</span> Your Horse, Head
                 to Hoof

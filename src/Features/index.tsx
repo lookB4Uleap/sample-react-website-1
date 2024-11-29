@@ -4,8 +4,8 @@ import img2 from "/images/image.svg";
 
 const Features = () => {
     return (
-        <div className="flex flex-1 flex-col py-5 px-5 lg:px-10">
-            <div className="flex flex-1 flex-col-reverse lg:flex-row items-center justify-between px-3 lg:px-10 py-5 lg:py-10">
+        <div className="flex flex-1 flex-col py-5 px-1 lg:px-10">
+            <div className="flex flex-1 flex-col-reverse lg:flex-row items-center justify-between px-1 lg:px-10 py-5 lg:py-10">
                 <div className="flex flex-1 flex-col mr-3">
                     <div className="font-bold text-2xl lg:text-4xl py-1 lg:py-3">
                         Uniquely formulated for horse trainers

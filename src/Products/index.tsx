@@ -1,7 +1,7 @@
 
 const Products = () => {
     return (
-        <div className='w-full flex flex-1 flex-col py-5 px-5 lg:px-20'>
+        <div className='w-full flex flex-1 flex-col py-5 px-1 lg:px-20'>
             <div className="font-bold text-3xl lg:text-6xl py-2">
                 Our 
                 <span className="text-red-800"> Core </span> 

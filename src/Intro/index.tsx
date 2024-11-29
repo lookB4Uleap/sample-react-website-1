@@ -11,7 +11,7 @@ const Intro = () => {
             />
             {/* {height && ( */}
                 <div
-                    className="flex h-screen w-full flex-col items-start justify-center text-gray-50 px-10 lg:px-20"
+                    className="flex h-screen w-full flex-col items-start justify-center text-gray-50 px-5 lg:px-20"
                     // style={{ height: height*1.1 }}
                 >
                     <div className="text-xs lg:text-xl">

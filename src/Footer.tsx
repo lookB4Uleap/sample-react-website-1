@@ -7,7 +7,7 @@ import {
 
 const Footer = () => {
     return (
-        <div className="w-full flex flex-1 flex-col py-5 px-5 lg:px-20 bg-black h-96">
+        <div className="w-full flex flex-1 flex-col py-5 px-1 lg:px-20 bg-black h-96">
             <div className="flex flex-1 flex-col lg:flex-row py-5 px-5 lg:px-20">
                 <div className="flex flex-1 flex-col lg:flex-row">
                     <img className="size-64" src={drugFreesign} />
